@@ -19,7 +19,7 @@ pip install numpy pandas matplotlib seaborn
 
 ## Use ##
 1. Install dependencies
-2. Clone this repo wherever you like
+2. Clone/download this repo wherever you like
 2. Download freedb from http://ftp.freedb.org/pub/freedb/ (the latest version at the time of writing this is "freedb-complete-20180301.tar.bz2"
 3. Unzip it to this repo's folder
 4. Edit demo.py to set \_ROOT\_ to the repo's directory.
